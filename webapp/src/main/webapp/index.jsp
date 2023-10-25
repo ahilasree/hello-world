@@ -5,14 +5,14 @@
     <hr>
      
     <label for="Enter Name"><b>Name</b></label>
-    <input type="text" placeholder="Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     
     <br>
     <label for="mobile"><b>Entermobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>EnterEmail</b></label>
     <input type="text" placeholder="EnterEmail" name="email" id="email" required>
 
     <br>
